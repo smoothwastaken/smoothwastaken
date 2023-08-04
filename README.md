@@ -10,7 +10,7 @@
 - 🌱 &nbsp;I’m currently learning React Native
 - 💬 &nbsp;Don't ask me about anything, I'm a pretty bad teacher
 - 📫 &nbsp;How to reach me: [@cleeryy](https://twitter.com/cleeryy) or <a rel="me" href="mailto:contact@cleeryy.com">contact@cleeryy.com</a>
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [cleeryy.com](https://www.cleeryy.com/)
 - ⚡ &nbsp;Fun fact: My favorite games are the "The Last Of Us" saga !
 
 🔗 &nbsp;**Connect with me**
